@@ -1,0 +1,13 @@
+{
+  "name": "Anrop Difficulty",
+  "prefix": "anrop_difficulty",
+  "version": "1.0.0",
+  "author": "Anrop",
+  "files": [
+    "mod.cpp"
+  ],
+  "keyname": "anrop_difficulty",
+  "reuse_private_key": false,
+  "signame": "anrop_difficulty",
+  "sigversion": 3
+}
