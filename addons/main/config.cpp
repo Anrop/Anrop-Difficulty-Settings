@@ -1,6 +1,6 @@
 class CfgPatches {
-  class anrop_difficulty {
-    name = "Anrop Difficulty";
+  class anrop_difficulty_settings {
+    name = "Anrop Difficulty Settings";
     units[] = {};
     weapons[] = {};
     requiredVersion = 1.0;

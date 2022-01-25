@@ -22,7 +22,7 @@ pipeline {
             }
 
             steps {
-                publishSteamWorkshop '1882881196', 'releases/1.0.0/@anrop_difficulty', "https://github.com/Anrop/Anrop-Difficulty-Settings/commit/${env.GIT_COMMIT}"
+                publishSteamWorkshop '1882881196', 'releases/1.0.0/@anrop_difficulty_settings', "https://github.com/Anrop/Anrop-Difficulty-Settings/commit/${env.GIT_COMMIT}"
             }
         }
     }
